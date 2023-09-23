@@ -1,4 +1,4 @@
-# Tipo de usuario
+# Developer
 - [ ] @AndeSub
 - [ ] @alfredobrc
 - [ ] @bgap20
